@@ -1,2 +1,2 @@
 # devops-twelve
-I want to learn to use devops tools
+I want to learn use devops tools
